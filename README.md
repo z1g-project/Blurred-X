@@ -1,12 +1,12 @@
-<img align="left" width="70px" src="https://raw.githubusercontent.com/titaniumnetwork-dev/Holy-Unblocker/master/views/assets/img/icon.png"></img>
-# Holy Unblocker
+<img align="left" width="70px" src="https://replit.com/cdn-cgi/image/width=1920,quality=80,format=auto/https://storage.googleapis.com/replit/images/1651702336632_b1b4562731981a8b3b51f00c422e454c.png"></img>
+# Blurred X
 
-Holy Unblocker, an official flagship Titanium Network site, can bypass web filters regardless of whether it is an extension or network-based. Being a secure web proxy service, it supports numerous sites while being updated frequently and concentrating on detail with design, mechanics, and features.
+Blurred X, an official flagship z1g Project site, can bypass web filters regardless of whether it is an extension or network-based. Being a secure web proxy service, it supports numerous sites while being updated frequently and concentrating on detail with design, mechanics, and features.
 
 Works with a large number of sites, including YouTube, Discord, and more!
 Also has a good amount of locally hosted games featured on the site.
 
-### You can support Holy Unblocker by starring the repository!
+### You can support Blurred X by starring the repository!
 
 Read below for information if the official site is blocked or for obtaining more links.
 
@@ -34,15 +34,15 @@ Due to piracy concerns, size, etc. this has been moved over <a href="https://git
 
 Note: EmuLibrary is not featured in the public version.
 
-Official Site: <a href="https://holyubofficial.net">https://holyubofficial.net</a>
+Official Site: <a href="https://blurred-x.herokuapp.com">https://blurred-x.herokuapp.com</a>
 
-**Be sure to join Titanium Network's Discord for more official site links:** <a href="https://discord.gg/unblock">https://discord.gg/unblock</a>
+**Be sure to join Titanium Network's Discord for more official site links:** <a href="https://discord.gg/f2Q2qgNNFJ">https://discord.gg/f2Q2qgNNFJ</a>
 
-Simply do `%proxy hu` in `#proxy-commands` for more Holy Unblocker links on the TN Discord server.
+Simply do `%proxy hu` in `#proxy-commands` for more Blurred X links on the z1g Discord server.
 
 <img src="https://raw.githubusercontent.com/titaniumnetwork-dev/Holy-Unblocker/master/views/assets/img/preview/hu-v5.0.0-preview.png"></img>
 
-### Deploy Holy Unblocker
+### Deploy Blurred X
 
 [![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/titaniumnetwork-dev/Holy-Unblocker)
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/titaniumnetwork-dev/Holy-Unblocker)
@@ -56,8 +56,8 @@ Simply do `%proxy hu` in `#proxy-commands` for more Holy Unblocker links on the 
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/QuiteAFancyEmerald/Holy-Unblocker-Old&branch=master&name=HolyUnblocker&run_command=npm%start)
 
-#### Is Holy Unblocker still being worked on?
-Yes! A lot of users may have noticed the initial message about Holy Unblocker being down however Holy Unblocker is now being maintained by a seperate team and no longer by me. You may check it out <a href="https://git.holy.how/">here</a> once setup or join the TN Discord linked below for more information. 
+#### Is Blurred X still being worked on?
+Yes! A lot of users may have noticed the initial message about Blurred X being down however Blurred X is now being maintained by a seperate team and no longer by me. You may check it out <a href="https://git.holy.how/">here</a> once setup or join the z1g Discord linked below for more information. 
 
 #### Where can I find the new source material for Holy Unblocker?
 Check it out <a href="https://github.com/holy-unblocker/website-aio">here</a> if you wish to have an easier to deploy instance with the new changes :D
