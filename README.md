@@ -1,7 +1,7 @@
 <img align="left" width="70px" src="https://replit.com/cdn-cgi/image/width=1920,quality=80,format=auto/https://storage.googleapis.com/replit/images/1651702336632_b1b4562731981a8b3b51f00c422e454c.png"></img>
 # Blurred X
 
-Blurred X, an official flagship z1g Project site, can bypass web filters regardless of whether it is an extension or network-based. Being a secure web proxy service, it supports numerous sites while being updated frequently and concentrating on detail with design, mechanics, and features.
+Blurred X, an official flagship z1g Project site powered by the powerfull Holy Unblocker by Emerald from TN, can bypass web filters regardless of whether it is an extension or network-based. Being a secure web proxy service, it supports numerous sites while being updated frequently and concentrating on detail with design, mechanics, and features.
 
 Works with a large number of sites, including YouTube, Discord, and more!
 Also has a good amount of locally hosted games featured on the site.
