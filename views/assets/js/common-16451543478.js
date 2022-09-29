@@ -70,7 +70,7 @@ window.goProx = {
     },
     womginx: function(url, stealth) {
         setAuthCookie("wgauth=yes", false);
-        goToUrl("https://a." + getDomain() + "/main/" + omnibox(url), stealth);
+        goToUrl("https://womginx.johnglynn2.repl.co" + omnibox(url), stealth);
     },
     searx: function(stealth) {
         setAuthCookie("oldsmobile=badcar", true);
@@ -86,6 +86,10 @@ window.goProx = {
     osu: function(stealth) {
         setAuthCookie("osauth=true", false);
         goToUrl("https://osu." + getDomain() + "/index.html", stealth);
+    },
+  bruhprox: function(url, stealth) {
+        setAuthCookie("wgauth=yes", false);
+        goToUrl("https://bruhprox.johnglynn2.repl.co" + omnibox(url), stealth);
     },
     mcnow: function(stealth) {
         setAuthCookie("__cor_auth=1", false);
