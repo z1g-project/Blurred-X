@@ -31,6 +31,7 @@ const pages = {
     'q': 'pages/proxnav/ultraviolet.html',
     'rh': 'pages/proxnav/rammerhead.html',
     'w': 'pages/proxnav/womginx.html',
+    'bp': 'pages/proxnav/bruhprox.html',
     /* Proxy Presets */
     'sx': 'pages/proxnav/preset/spotify.html',
     'y': 'pages/proxnav/preset/youtube.html',

@@ -28,4 +28,4 @@ app.use((req, res) => {
 });
 
 server.listen(port);
-console.log('Holy Unblocker is listening on port ' + port + '.');
+console.log('Blurred X is listening on port ' + port + '.');
